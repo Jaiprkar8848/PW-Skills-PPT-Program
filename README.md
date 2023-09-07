@@ -15,7 +15,7 @@ Throughout the training program, I gained expertise in a wide range of topics, i
 You are welcome to explore, review, and use the assignments and practice codes in this repository for learning and reference purposes. If you find any of the content interesting or have questions, please feel free to reach out to me. I'm open to collaboration and sharing knowledge with fellow learners and enthusiasts.
 
 ## Contact
-If you'd like to get in touch with me or discuss potential opportunities, please feel free to reach out via email: jaiprkar8848@gmail.com or connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jaiprakash-maheshwari-29a4451bb/).
+If you'd like to get in touch with me or discuss potential opportunities, please feel free to reach out via email: [jaiprkar8848@gmail.com] or connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jaiprakash-maheshwari-29a4451bb/).
 
 
 Thank you for visiting my Pre-Placement Training Portfolio!
